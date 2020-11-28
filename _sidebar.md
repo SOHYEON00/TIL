@@ -9,10 +9,12 @@
 
 * JavaScript
 
-* [Algorithms](/Algorithms.md)
+* Algorithms
+    *[문제_모아보기](/Algorithms.md)
     * HASH
-        * [not_completed_player](/Algorithms/HASH/not_completed_player.md)
-        * [coustume](/Algorithms/HASH/coustume.md)
+        * [not_completed_player](/Algorithms/not_completed_player.md)
+        * [coustume](/Algorithms/coustume.md)
 
-    * [Stack&Queue](/Algorigthms/python_stack_q.me)
+    * Stack&Queue
+        *[스택/큐개념](/Algorigthms/python_stack_q.md)
         * [project_speed](/Algorithms/project_speed.md)
