@@ -16,5 +16,5 @@
         * [coustume](/Algorithms/coustume.md)
 
     * Stack&Queue
-        *[스택/큐개념](/Algorigthms/python_stack_q.md)
+        * [스택-큐 개념](/Algorigthms/python_stack_q.md)
         * [project_speed](/Algorithms/project_speed.md)
