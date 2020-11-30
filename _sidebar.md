@@ -9,7 +9,10 @@
 
 * JavaScript
 
-* Algorithms
+* Python
+    * [lamda란?](/Python/Lamda.md)
+
+<!-- * Algorithms
     *[문제_모아보기](/Algorithms.md)
     * HASH
         * [not_completed_player](/Algorithms/not_completed_player.md)
@@ -17,4 +20,4 @@
 
     * Stack&Queue
         * [스택-큐 개념](/Algorigthms/python_stack_q.md)
-        * [project_speed](/Algorithms/project_speed.md)
+        * [project_speed](/Algorithms/project_speed.md) -->
