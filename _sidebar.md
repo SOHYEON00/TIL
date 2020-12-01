@@ -11,6 +11,10 @@
 
 * Python
     * [lamda란?](/Python/Lamda.md)
+    * [list함수들](/Python/list_func.md)
+
+* git
+    * [commit_rule](/GIT/commit형식.md)
 
 <!-- * Algorithms
     *[문제_모아보기](/Algorithms.md)
