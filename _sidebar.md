@@ -3,9 +3,8 @@
     *[CSR_SSR개념](/WEB/CSR_SSR.md)
 
 * REACT
-    * HOOKS
-        * [Props와State](/REACT/Props와State.md)
-        * [useState](/REACT/useState.md)
+    * [Props와State](/REACT/Props와State.md)
+
 
 * JavaScript
 
