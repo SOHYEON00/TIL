@@ -4,7 +4,7 @@
 
 * REACT
     * HOOKS
-        * [useEffect](/REACT/useEffect.md)
+        * [Props와State](/REACT/Props와State.md)
         * [useState](/REACT/useState.md)
 
 * JavaScript
