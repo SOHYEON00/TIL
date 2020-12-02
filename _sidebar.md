@@ -1,6 +1,7 @@
 * [HOME](/)
 * WEB
-    *[CSR_SSR개념](/WEB/CSR_SSR.md)
+    * [CSR_SSR개념](/WEB/CSR_SSR.md)
+    * [HTTP_와_브라우저](/WEB/about_HTTP.md)
 
 * REACT
     * [Props와State](/REACT/Props와State.md)
