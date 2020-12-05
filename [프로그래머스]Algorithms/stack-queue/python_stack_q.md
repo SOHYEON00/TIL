@@ -148,6 +148,7 @@ print(pancakeStack)
 우리는 일상생활에서 언제든 스택과 큐를 접할 수 있다.
 list를 사용하면 파이썬에서 언제든 쉽게 스택과 큐를 구현할 수 있으니 직접 구현해보자!
 <br><br>
+***
 > 출처
 
 Stacks and Queues in Python
