@@ -10,7 +10,7 @@
 * JavaScript
 
 * Python
-    * [lamda란?](/Python/lamda.md)
+    * [lamda란?](/Python/lambda.md)
     * [list함수들](/Python/list_func.md)
 
 * git
@@ -21,13 +21,7 @@
     * [Stack-Queue](/[프로그래머스]Algorithms/stack-queue/python_stack_q.md)
     * [Sorting](/[프로그래머스]Algorithms/sorting.md)
     * [Heap](/[프로그래머스]Algorithms/heap.md)
-
-
-    
-    
-    
-    
-    <!-- * [JS로 힙 구현](/JS/heap_by_JS.js) -->
+<!-- * [JS로 힙 구현](/JS/heap_by_JS.js) -->
 
 <!-- * Algorithms
     *[문제_모아보기](/Algorithms.md)
