@@ -57,14 +57,18 @@ sorted(student_objects, key=attrgetter('grade', 'age'))
 sorted(student_tuples, key=itemgetter(1,2))
 [('john', 'A', 15), ('dave', 'B', 10), ('jane', 'B', 12)]
 ```
-
+<br/>
+<br/>
 
 ### reverse - 오름차순 / 내림차순
 - key 처럼 reverse라는 매개변수를 True(내림차순) or False(오름차순) 로 받아 정렬이 가능하다.
 
 
 
-
+<br/>
+<br/><br/>
+<br/><br/>
+<br/>
 
 
 
