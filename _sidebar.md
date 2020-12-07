@@ -10,14 +10,15 @@
 * JavaScript
 
 * Python
-    * [lamda란?](/Python/Lamda.md)
+    * [lamda란?](/Python/lamda.md)
     * [list함수들](/Python/list_func.md)
 
 * git
     * [commit_rule](/GIT/commit형식.md)
 
-* Algorithms
+* [Algorithms](/[프로그래머스]Algorithms/Algorithms.md)
     * [스택-큐 개념](/[프로그래머스]Algorigthms/stack-queue/python_stack_q.md)
+    <!-- * [JS로 힙 구현](/JS/heap_by_JS.js) -->
 
 <!-- * Algorithms
     *[문제_모아보기](/Algorithms.md)
