@@ -16,8 +16,13 @@
 * git
     * [commit_rule](/GIT/commit형식.md)
 
-* [Algorithms](/[프로그래머스]Algorithms/Algorithms.md)
-    * [스택-큐 개념](/[프로그래머스]Algorigthms/stack-queue/python_stack_q.md)
+* Algorithms
+    * [README](/[프로그래머스]Algorithms/Algorithms.md)
+    * [Stack-Queue](/[프로그래머스]Algorithms/stack-queue/python_stack_q.md)
+    * [Sorting](/[프로그래머스]Algorithms/sorting.md)
+    * [Heap](/[프로그래머스]Algorithms/heap.md)
+
+
     <!-- * [JS로 힙 구현](/JS/heap_by_JS.js) -->
 
 <!-- * Algorithms
