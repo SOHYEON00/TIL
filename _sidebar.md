@@ -8,6 +8,7 @@
     * [Props와State](/REACT/Props와State.md)
 
 * JavaScript
+    * [불변객체 만드는 법](/JS/코어자바스크립트/data_type.md)
 
 * Python
     * [lamda란?](/Python/lambda.md)
