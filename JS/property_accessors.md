@@ -3,8 +3,8 @@
 <br/>
 
 > 예제를 실습하던 도중, 객체 속성 접근자의 종류에 대해 알았다.<br/>
-  이를 더 자세히 공부하기 위해 글을 작성하게 되었다.
-  출처 : [MDN-속성접근자](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Property_Accessors) [Medium](https://medium.com/sjk5766/javascript-object-key-vs-object-key-%EC%B0%A8%EC%9D%B4-3c21eb49b763)
+  이를 더 자세히 공부하기 위해 글을 작성하게 되었다.<br/>
+  출처 : [MDN-속성접근자](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Property_Accessors) / [Medium](https://medium.com/sjk5766/javascript-object-key-vs-object-key-%EC%B0%A8%EC%9D%B4-3c21eb49b763)
 
 <br/>
 <br/>
@@ -30,8 +30,6 @@
       console.log(77.toExponential(f)); 
       console.log(77.5.toExponential(f)); //정상출력
       ```
-
-<br/>
 
 > 리터럴 : 변수 및 상수에 저장되는 '값 자체'
 <br/>
