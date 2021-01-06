@@ -7,11 +7,14 @@
 * REACT
     * [Props와State](/REACT/Props와State.md)
 
+
+* 코어자바스크립트
+    * [불변객체 만드는 법](/JS/코어자바스크립트/data_type.md)
+
 * JavaScript
-    * 코어자바스크립트
-        * [불변객체 만드는 법](/JS/코어자바스크립트/data_type.md)
-    
+    * [JS로 힙 구현](/JS/heap_by_JS.js)
     * [속성 접근자](/JS/property_accessors.md)
+    
 
 * Python
     * [lamda란?](/Python/lambda.md)
@@ -25,14 +28,5 @@
     * [Stack-Queue](/[프로그래머스]Algorithms/stack-queue/python_stack_q.md)
     * [Sorting](/[프로그래머스]Algorithms/sorting.md)
     * [Heap](/[프로그래머스]Algorithms/heap.md)
-<!-- * [JS로 힙 구현](/JS/heap_by_JS.js) -->
 
-<!-- * Algorithms
-    *[문제_모아보기](/Algorithms.md)
-    * HASH
-        * [not_completed_player](/Algorithms/not_completed_player.md)
-        * [coustume](/Algorithms/coustume.md)
 
-    * Stack&Queue
-        * [스택-큐 개념](/Algorigthms/python_stack_q.md)
-        * [project_speed](/Algorithms/project_speed.md) -->
