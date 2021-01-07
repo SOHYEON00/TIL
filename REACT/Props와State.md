@@ -1,10 +1,9 @@
 # Props와 State
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 ***
 
-<br/><br/>
 
 ## Props
 

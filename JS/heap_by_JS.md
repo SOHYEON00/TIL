@@ -1,6 +1,11 @@
-// ref https://1ilsang.dev/2020-04-02/js/heap
+# 자바스크립트로 힙 구현하기
 
+> ref https://1ilsang.dev/2020-04-02/js/heap
 
+<br/>
+<br/>
+
+```
 function add(n) {
     if( this.idx + 1 === this.arr.length) throw Error('Stack Overflow');
 
@@ -35,3 +40,4 @@ function main() {
 }
 
 main();
+```
