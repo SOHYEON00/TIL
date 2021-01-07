@@ -49,3 +49,16 @@
     E와 같은 타입이면서 부모의 n번째 자식인 것들을 선택한다.
 
 - n에는 [syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child) 등이 들어갈 수 있다.
+
+
+<br/>
+<br/>
+
+***
+
+### cursor 프로퍼티
+
+    cursor 프로퍼티는 해당 요소 위에 마우스를 올려 놓았을 때, 마우스 포인터의 모습을 바꿔준다.
+
+- 종류
+    help, wait, crosshair, not-allowed, zoom-in, grab, pointer ...
