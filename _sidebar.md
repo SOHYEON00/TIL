@@ -14,7 +14,7 @@
 * JavaScript
     * [JS로 힙 구현](/JS/heap_by_JS.js)
     * [속성 접근자](/JS/property_accessors.md)
-    * [호이스팅](/JS/예제/hoisting.js)
+    * [호이스팅](/JS/코어자바스크립트/예제/hoisting.js)
     
 
 * Python
