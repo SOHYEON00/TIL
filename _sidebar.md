@@ -7,10 +7,12 @@
 
 * 코어자바스크립트
     * [불변객체 만드는 법](/코어자바스크립트/data_type.md)
+    * [호이스팅](/코어자바스크립트/hoisting.md)
 
 * JavaScript
     * [JS로 힙 구현](/JS/heap_by_JS.md)
     * [속성 접근자](/JS/property_accessors.md)
+    
 
 * REACT
     * [Props와State](/REACT/Props와State.md)

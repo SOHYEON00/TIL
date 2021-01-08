@@ -51,7 +51,8 @@
 - n에는 [syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child) 등이 들어갈 수 있다.
 
 
-<br/>
+<br/> 
+
 <br/>
 
 ***
