@@ -1,6 +1,6 @@
 # TIL
 ***
-#### Junior Front-end developer
+#### Become who makes stuff
 안녕하세요.
 주니어 프론트엔드 개발자 오소현입니다.
 
