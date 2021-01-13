@@ -48,24 +48,24 @@
 
 
 
-    // switchTheme = (ischecked) => {
-    //   let themeList = ['vue', 'bubble', 'pure', 'dark']
-    //   const index = themeList.indexOf(ischecked ? 'dark' : 'vue')
-    //   themeList.splice(index, 1)
+    switchTheme = (ischecked) => {
+      let themeList = ['vue', 'bubble', 'pure', 'dark']
+      const index = themeList.indexOf(ischecked ? 'dark' : 'vue')
+      themeList.splice(index, 1)
 
-    //   const stylesheets = document.styleSheets;
-    //   const stylesheetsLength = stylesheets.length;
+      const stylesheets = document.styleSheets;
+      const stylesheetsLength = stylesheets.length;
 
-    //   for (let i = 0; i < stylesheetsLength; i++) {
-    //     const stylesheetTitle = document.styleSheets[i].title
-    //     if (!stylesheetTitle) continue;
-    //     console.log(stylesheetTitle)
-    //     document.styleSheets[i].disabled = (stylesheetTitle !== (ischecked ? 'dark' : 'pure'))
+      for (let i = 0; i < stylesheetsLength; i++) {
+        const stylesheetTitle = document.styleSheets[i].title
+        if (!stylesheetTitle) continue;
+        console.log(stylesheetTitle)
+        document.styleSheets[i].disabled = (stylesheetTitle !== (ischecked ? 'dark' : 'pure'))
         
-    //   }
+      }
 
 
-    // }
+    }
 
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
