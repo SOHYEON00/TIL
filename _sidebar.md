@@ -1,5 +1,8 @@
 * [HOME](/)
 
+* 토이프로젝트
+    *[JS - 영화 좌석 선택 사이트](/토이프로젝트/Movie_seats_booking.md)
+
 * WEB
     * [CSR_SSR개념](/WEB/CSR_SSR.md)
     * [HTTP_와_브라우저](/WEB/about_HTTP.md)
