@@ -29,9 +29,6 @@
 
 # # ignore all files in the build/ directory
 # build/
-알고리즘/
-GIT/
-JS/
 
 WEB/about_HTTP.md
 WEB/CSR_SSR.md
