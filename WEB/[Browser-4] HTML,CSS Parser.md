@@ -130,6 +130,19 @@ a-z까지의 문자를 만나며 `start 태그 토큰`을 생성하고 상태는
 상태 변화:  `body 다음` -> `body 다음 다음`
 
 마지막 파일 토큰을 받으면 파싱을 종료한다.
-    
+<br/>
 
-    
+# CSS 파싱
+
+CSS는 context free 문법으로 일반적인 파싱이 가능하며 구문 문법은 BNF로 설명되어 있다.
+
+## Webkit CSS parser
+ css 파일로부터 자동으로 파서를 생성하기 위해 `Flex and Bison 파서 생성기`를 사용한다.
+ - bison: 상향식 이동 감소 파서 생성
+ 
+ ** Firefox: 직접 작성한 하향식 파서를 사용함.
+
+결론
+- 무슨 파서를 사용하든 각 css 파일은 style sheet 객체로 파싱되며 각 객체는 css 규칙을 포함한다.
+- 이때, css 규칙을 포함한 객체는 선택자. 선언 객체. css 문법과 일치하는 다른 객체를 포함한다.
+![](https://images.velog.io/images/sohyeon00/post/d1d8c7bc-2363-4c11-ab4f-88d06a5d4d8b/image.png)
